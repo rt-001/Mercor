@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.top{
+ 
+    display: flex;
+
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+.middle{
+   
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.heading{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+
+}
+
+.headingText{
+    color:  #0D062D;
+    font-size: 24px;
+    font-weight: 600;
+}
+.inviteImg{
+    width: 20%;
+}
