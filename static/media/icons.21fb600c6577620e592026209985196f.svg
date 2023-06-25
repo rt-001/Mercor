@@ -1,0 +1,105 @@
+<svg
+  width="120"
+  height="24"
+  viewBox="0 0 120 24"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+<path
+    d="M108.02 2.91C104.71 2.91 102.02 5.6 102.02 8.91V11.8C102.02 12.41 101.76 13.34 101.45 13.86L100.3 15.77C99.59 16.95 100.08 18.26 101.38 18.7C105.69 20.14 110.34 20.14 114.65 18.7C115.86 18.3 116.39 16.87 115.73 15.77L114.58 13.86C114.28 13.34 114.02 12.41 114.02 11.8V8.91C114.02 5.61 111.32 2.91 108.02 2.91Z"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+  />
+<path
+    d="M109.87 3.2C109.56 3.11 109.24 3.04 108.91 3C107.95 2.88 107.03 2.95 106.17 3.2C106.46 2.46 107.18 1.94 108.02 1.94C108.86 1.94 109.58 2.46 109.87 3.2Z"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M111.02 19.06C111.02 20.71 109.67 22.06 108.02 22.06C107.2 22.06 106.44 21.72 105.9 21.18C105.36 20.64 105.02 19.88 105.02 19.06"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+  />
+<circle cx="114" cy="4" r="3" fill="#D8727D" />
+<path
+    d="M65 18.4301H61L56.55 21.39C55.89 21.83 55 21.3601 55 20.5601V18.4301C52 18.4301 50 16.4301 50 13.4301V7.42999C50 4.42999 52 2.42999 55 2.42999H65C68 2.42999 70 4.42999 70 7.42999V13.4301C70 16.4301 68 18.4301 65 18.4301Z"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M60 11.36V11.15C60 10.47 60.42 10.11 60.84 9.82001C61.25 9.54001 61.66 9.18002 61.66 8.52002C61.66 7.60002 60.92 6.85999 60 6.85999C59.08 6.85999 58.34 7.60002 58.34 8.52002"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M59.9955 13.75H60.0045"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M8 2V5"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M16 2V5"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M3.5 9.09H20.5"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M21 8.5V17C21 20 19.5 22 16 22H8C4.5 22 3 20 3 17V8.5C3 5.5 4.5 3.5 8 3.5H16C19.5 3.5 21 5.5 21 8.5Z"
+    stroke="#787486"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M11.9955 13.7H12.0045"
+    stroke="#787486"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M8.29431 13.7H8.30329"
+    stroke="#787486"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+<path
+    d="M8.29431 16.7H8.30329"
+    stroke="#787486"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>

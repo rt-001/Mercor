@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Mercor/static/css/main.ff3e10ef.css",
+    "main.js": "/Mercor/static/js/main.f34c8f26.js",
+    "static/js/787.4508103f.chunk.js": "/Mercor/static/js/787.4508103f.chunk.js",
+    "static/media/userimg.svg": "/Mercor/static/media/userimg.7e3b628252b5b4e5fcc44a50e07c5b9f.svg",
+    "static/media/last.png": "/Mercor/static/media/last.0880638cf0133a2e1d1e.png",
+    "static/media/invite.svg": "/Mercor/static/media/invite.c31ccb313ad097b94f0c1d1a7448d9f8.svg",
+    "static/media/user.svg": "/Mercor/static/media/user.a1d6840859b8f33c48f3fd68b8a9a3db.svg",
+    "static/media/filter.svg": "/Mercor/static/media/filter.6af0f1f9c45f19a2e4c081644fb0a54e.svg",
+    "static/media/share.svg": "/Mercor/static/media/share.2af07758b9b3e6a8cec7451c613f8e9f.svg",
+    "static/media/icons.svg": "/Mercor/static/media/icons.ab52671cead6f17c4cf4333e3e85c97f.svg",
+    "static/media/logo.svg": "/Mercor/static/media/logo.0e7d9d8320d145248ee12ae9ca12be3b.svg",
+    "static/media/Home.svg": "/Mercor/static/media/Home.7f692755b8ddd94e59cbb76dd9d6d059.svg",
+    "static/media/settings.svg": "/Mercor/static/media/settings.c012d8382dc6cb9e6fb85aafe25ba982.svg",
+    "static/media/Members.svg": "/Mercor/static/media/Members.39d364ebe075b3106a5cf19b925a36f5.svg",
+    "static/media/arrow.svg": "/Mercor/static/media/arrow.d44f63aafc94f0586a06018b99afd471.svg",
+    "static/media/Tasks.svg": "/Mercor/static/media/Tasks.b0edd300e0cbfe6b6d393907296063fa.svg",
+    "static/media/Messages.svg": "/Mercor/static/media/Messages.9a98e6282c1faf3346da6d95b849e36e.svg",
+    "index.html": "/Mercor/index.html",
+    "static/media/add.svg": "/Mercor/static/media/add.274fe35acb535729e72bde3c789aef92.svg",
+    "static/media/search.svg": "/Mercor/static/media/search.a5e4d31fc31815e648f34a83ccbd7ee7.svg",
+    "static/media/downwardArrow.svg": "/Mercor/static/media/downwardArrow.031c61bc5482e36230a2ee85807afb15.svg",
+    "static/media/bluedot.svg": "/Mercor/static/media/bluedot.a21ce3d775202365d5d377f2580d79ee.svg",
+    "static/media/greendot.svg": "/Mercor/static/media/greendot.dbad6b621fa89908c354880024bda0c6.svg",
+    "static/media/greydot.svg": "/Mercor/static/media/greydot.76b49687ddb7bb509e8ffdd143614d91.svg",
+    "static/media/yellowdot.svg": "/Mercor/static/media/yellowdot.07f60a5223fd368a8e0f1b6c4616d6d6.svg",
+    "main.ff3e10ef.css.map": "/Mercor/static/css/main.ff3e10ef.css.map",
+    "main.f34c8f26.js.map": "/Mercor/static/js/main.f34c8f26.js.map",
+    "787.4508103f.chunk.js.map": "/Mercor/static/js/787.4508103f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3e10ef.css",
+    "static/js/main.f34c8f26.js"
+  ]
+}
